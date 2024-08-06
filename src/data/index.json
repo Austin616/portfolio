@@ -1,28 +1,78 @@
 {
     "skills": [
-        {
+      {
         "id": "1",
         "src": "./img/product-chain-1.png",
-        "title": "Front End",
-        "description": "I have experience building websites using HTML, CSS, and JavaScript. I have also used React, Angular, and Vue to build websites."
-        },
-        {
+        "title": "Back-End",
+        "description": "I have experience with Node.js, Express.js, and MongoDB. I have also worked with Firebase and certain API's."
+      },
+      {
         "id": "2",
         "src": "./img/tag-1.png",
-        "title": "Back-End",
-        "description": " I used back-end technologies like Node.js, Express.js, and MongoDB to build web applications. I have also used Firebase and MySQL."
-        },
-        {
+        "title": "Front-End",
+        "description": "I have mostly worked with React.js and have experience with HTML, CSS, and JavaScript."
+      },
+      {
         "id": "3",
         "src": "./img/feather-pen-2.png",
-        "title": "UI & UX",
-        "description": "I have experience building websites using HTML, CSS, and JavaScript. I have also used React, Angular, and Vue to build websites."
-        }
-        ,{
+        "title": "Machine Learning",
+        "description": "I am certified in Machine Learning through IBM and have experience with Python and TensorFlow."
+      },
+      {
         "id": "4",
         "src": "./img/feather-pen-1.png",
-        "title": "Front End",
-        "description": "I have experience building websites using HTML, CSS, and JavaScript. I have also used React, Angular, and Vue to build websites."
-        }
+        "title": "Software Development",
+        "description": "I have experience with Java, C, and Python along with experience with Git and GitHub. I also have knowledge of Agile and Scrum methodologies."
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/placeholder-image.png",
+        "title": "FitFolio - Fitness App",
+        "description": "Developed a comprehensive React web application, FitFolio, serving as a centralized repository for gym enthusiasts to access avast database of exercises sourced from ExerciseDB.",
+        "link": "https://workoutexercise.netlify.app/"
+      },
+      {
+        "id": "2",
+        "src": "./img/placeholder-image-1.png",
+        "title": "Arduino Alarm System",
+        "description": "Created an alarm system using the Arduino Uno R3 with an ultrasonic sensor that will buzz an active buzzer if the sensor detects a person within 1 foot of the sensor",
+        "link": "https://github.com/Austin616/Arduino-Distance-Dectector"
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "Personal Website",
+        "description": "Made a personal website using React for the front end, Express.js with Node.js for the back end. The website is fully responsive and has a clean and modern design.",
+        "link": "http://localhost:3000/"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
     ]
-}
+  }
+  
