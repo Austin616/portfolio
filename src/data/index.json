@@ -1,0 +1,28 @@
+{
+    "skills": [
+        {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front End",
+        "description": "I have experience building websites using HTML, CSS, and JavaScript. I have also used React, Angular, and Vue to build websites."
+        },
+        {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": " I used back-end technologies like Node.js, Express.js, and MongoDB to build web applications. I have also used Firebase and MySQL."
+        },
+        {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "UI & UX",
+        "description": "I have experience building websites using HTML, CSS, and JavaScript. I have also used React, Angular, and Vue to build websites."
+        }
+        ,{
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Front End",
+        "description": "I have experience building websites using HTML, CSS, and JavaScript. I have also used React, Angular, and Vue to build websites."
+        }
+    ]
+}
