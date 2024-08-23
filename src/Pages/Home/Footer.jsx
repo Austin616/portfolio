@@ -5,9 +5,9 @@ function Footer() {
   return (
     <footer className="footer--container">
       <div className="footer--link--container">
-        <div>
-          <img src="./img/logo.svg" alt="logoipsum" />
-        </div>
+      <div className="title-navbar">
+        AT
+      </div>
         <div className="footer--items">
           <ul>
             <li>
@@ -63,19 +63,7 @@ function Footer() {
                 Contact
               </Link>
             </li>
-            <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-                to="testimonial"
-                className="navbar--content"
-              >
-                Testimonials
-              </Link>
-            </li>
+            
           </ul>
         </div>
         <div className="footer--social--icon">

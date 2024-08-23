@@ -19,7 +19,7 @@ export default function HeroSection() {
             <br /> on AI and using ML to solve real-world problems.
           </p>
         </div>
-        <a href="https://www.linkedin.com/in/austin-tran-57624a284/" target="_blank">
+        <a href="https://www.linkedin.com/in/austin-tran-57624a284/" target="noreferrer">
           <button className="btn btn-primary">Get in Touch</button>
         </a>
       </div>
